@@ -3,6 +3,8 @@
 
 An interactive Power BI dashboard analyzing survey data from professionals who transitioned into different data-related career fields. The project explores career backgrounds, salaries, job roles, programming languages, and other factors related to careers in data.
 
+📊 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzhlZTY0Y2MtZDI4MS00NTc1LTk1NDYtMmZkMjVlODNlNWY4IiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9)**
+
 ## Tools
 - Power BI
 - Power Query
